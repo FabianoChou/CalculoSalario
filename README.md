@@ -1,4 +1,4 @@
-# CalculoSalario
+# Cálculo Salário
 ## Nome e Informações do Aluno
 - **Nome**: Fabiano Henrique Chou
 - **Turma**: NACCOMP3
